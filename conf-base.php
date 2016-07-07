@@ -39,4 +39,6 @@ return [
 //        'subprefeitura' => 'Subprefeitura',
 //        'distrito'      => 'Distrito'
 //    ],
+    'app.enabled.projects' => false,
+    'app.enabled.apps'     => false,
 ];
